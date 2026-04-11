@@ -30,6 +30,7 @@ Direct PDF downloads hosted on this site bypass institutional repository access 
 - [Does the Opinion of the Crowd Predict Commercial Success? Evidence from Threadless](https://www.anirbanmukherjee.com/papers/Mukherjee_Xiao_Wang_Contractor-AMP-2018-Threadless.pdf): Anirban Mukherjee, Ping Xiao, Li Wang, Noshir Contractor. Academy of Management Proceedings, 2018, 1, 12728
 - [On the Value Relevance of Retailer Advertising Spending and Same-Store Sales Growth](https://www.anirbanmukherjee.com/papers/Tuli_Mukherjee_Dekimpe-JRT-2012-Retailer_Advertising.pdf): Kapil R. Tuli, Anirban Mukherjee, Marnik G. Dekimpe. Journal of Retailing, 2012, 88(4), 447-461
 - [Modeling Multichannel Home Video Demand in the US Motion Picture Industry](https://www.anirbanmukherjee.com/papers/Mukherjee_Kadiyali-JMR-2011-Multichannel_Video.pdf): Anirban Mukherjee, Vrinda Kadiyali. Journal of Marketing Research, 2011, 48(6), 985-995. DOI: 10.1509/jmr.07.0359
+- [Models of Competition in the U.S. Motion Picture Industry](https://www.anirbanmukherjee.com/papers/Mukherjee-COR-2009-PhD_Thesis.pdf): Anirban Mukherjee. Ph.D. Dissertation, Cornell University, 2009. Permanent link: https://hdl.handle.net/1813/13533
 - [Advances in Battery Management Using Neural Networks and Fuzzy Logic](https://www.anirbanmukherjee.com/papers/Mukherjee-COR-2003-Battery_Management.pdf): Anirban Mukherjee. Cornell University, 2003
 
 ## Working Papers (Direct PDF Access)
